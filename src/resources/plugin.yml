@@ -1,0 +1,19 @@
+name: NotSpectator
+version: 1.0
+main: io.codejava.mc.notspectator.NotSpectator
+api-version: '1.21'
+author: CodeJava
+description: Hides whitelisted spectators in the tab list.
+# This is CRITICAL for the plugin to work!
+depend: [ProtocolLib]
+
+commands:
+  notspectator:
+    description: Main command for the NotSpectator plugin.
+    usage: /notspectator <subcommand>
+    permission: notspectator.admin
+
+permissions:
+  notspectator.admin:
+    description: Allows access to all NotSpectator commands.
+    default: op

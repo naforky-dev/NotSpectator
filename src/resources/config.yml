@@ -1,0 +1,8 @@
+# List of player names (lowercase) to hide from the spectator list.
+# Use /notspectator whitelist to manage this list in-game.
+whitelist:
+  - "naforky"
+
+# Set this to false to hide gamemode change messages (like '/gamemode spectator').
+# This toggles the 'sendCommandFeedback' game rule.
+show-gamemode-messages: true
