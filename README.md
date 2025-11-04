@@ -17,6 +17,8 @@ PaperMC `1.21.10`
 
 Java 25 `temurin`(Oracle의 [최신 Java](https://www.oracle.com/java/technologies/downloads/#java25) 버전)
 
+ProtocolLib `5.4.0`(dmulloy2의 `com.comphenix.protocol`)
+
 ### Usage
 `/notspectator <command>`
 
@@ -31,7 +33,7 @@ Java 25 `temurin`(Oracle의 [최신 Java](https://www.oracle.com/java/technologi
 `config.yml` - `/plugins/NotSpectator` 경로에 생성 가능한 설정 파일(서버 새로고침, 재시작 시 설정 리셋 방지)
 
 ### 설정 파일
->[!IMPORTANT]
+>[!NOTE]
 >`config.yml` 파일을 아래의 방법 또는 구조와 다르게 생성할 경우 기본값이 로드됩니다.
 >서버 로그에서 설정이 적용되었는지 확인할 수 있습니다.
 
