@@ -18,6 +18,7 @@ PaperMC `1.21.10`
 Java 25 `temurin`(Oracle의 [최신 Java](https://www.oracle.com/java/technologies/downloads/#java25) 버전)
 
 ProtocolLib `5.4.0`(dmulloy2의 [`com.comphenix.protocol.ProtocolLib`](https://repo.dmulloy2.net/#browse/browse:public:com))
+[![Maven Central](https://img.shields.io/maven-central/v/com.comphenix.protocol/ProtocolLib.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.comphenix.protocol%22%20AND%20a:%22ProtocolLib%22)
 
 ### Usage
 `/notspectator <command>`
