@@ -1,6 +1,9 @@
 # NotSpectator
 마인크래프트에서 특정 플레이어의 관전 모드 사용 상태를 숨기는 플러그인
 
+[![Build](https://github.com/naforky-dev/NotSpectator/actions/workflows/build.yml/badge.svg)](https://github.com/naforky-dev/NotSpectator/actions)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 >[!IMPORTANT]
 > 이 플러그인을 유튜브와 같은 영상 플랫폼에 사용할 경우 플러그인 링크와 다음의 출처를 남겨주세요.
 >
@@ -21,6 +24,8 @@ ProtocolLib `5.4.0`(dmulloy2의 [`com.comphenix.protocol.ProtocolLib`](https://r
 
 >[!TIP]
 >이 플러그인은 `ProtocolLib` 플러그인이 없을 경우 실행되지 않습니다.
+>
+> [다운로드](https://github.com/dmulloy2/ProtocolLib/releases/tag/5.4.0)
 
 ### Usage
 `/notspectator <command>`
