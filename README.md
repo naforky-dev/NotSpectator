@@ -19,6 +19,9 @@ Java 25 `temurin`(Oracle의 [최신 Java](https://www.oracle.com/java/technologi
 
 ProtocolLib `5.4.0`(dmulloy2의 [`com.comphenix.protocol.ProtocolLib`](https://repo.dmulloy2.net/#browse/browse:public:com))
 
+>[!TIP]
+>이 플러그인은 `ProtocolLib` 플러그인이 없을 경우 실행되지 않습니다.
+
 ### Usage
 `/notspectator <command>`
 
