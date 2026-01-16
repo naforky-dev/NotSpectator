@@ -18,7 +18,7 @@
 ### 실행 환경
 PaperMC `1.21.10`
 
-Java 25 `temurin`(Oracle의 [최신 Java](https://www.oracle.com/java/technologies/downloads/) 버전)
+Java 25 `temurin`(또는 Oracle의 [최신 Java](https://www.oracle.com/java/technologies/downloads/) 버전)
 
 ProtocolLib `5.4.0`(dmulloy2의 [`com.comphenix.protocol.ProtocolLib`](https://repo.dmulloy2.net/#browse/browse:public:com))
 
